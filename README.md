@@ -1,5 +1,4 @@
 ## https://pogaem.github.io
-[사이트](https://pogaem.github.io).
 
 ## KIM JIHYE
 
